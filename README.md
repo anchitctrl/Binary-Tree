@@ -2,6 +2,9 @@
 
 ### Table of Contents:
 
+![Binary Tree meme](![image](https://user-images.githubusercontent.com/70264806/134221937-a01cce49-57a3-4f9a-ba5b-8be1b75839eb.png)
+)
+
 * [Implementation of a Binary Tree](#implementation-of-a-binary-tree)
 * [Pre Order Traversal Using Recursion](#pre-order-traversal-using-recursion)
 * [In Order Traversal Using Recursion](#in-order-traversal-using-recursion)
