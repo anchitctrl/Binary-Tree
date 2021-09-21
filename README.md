@@ -1,8 +1,14 @@
 # Binary-Tree
 
-### Table of Contents:
+### A topic of Data Structures and Algorithms which most people found difficult enough, only if you are not practising. This is a perfect topic with a lot of Applications and i would suggest everyone should stick with Binary Tree until and unless you become comfortable with this as you are with Array.
 
-![image](https://user-images.githubusercontent.com/70264806/134221994-2d44a62d-e808-4139-a871-ca08b0ac4d14.png)
+<br/>
+
+### I would suggest, go through the below given questions. It will be really helpful to revise and brush up this topic with some of the very basic programs you can find on Binary Tree in your placements or in interviews as well.
+
+<img src="https://user-images.githubusercontent.com/70264806/134221994-2d44a62d-e808-4139-a871-ca08b0ac4d14.png" alt="drawing" width="300"/>
+
+### Table of Contents:
 
 
 * [Implementation of a Binary Tree](#implementation-of-a-binary-tree)
